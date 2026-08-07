@@ -234,7 +234,7 @@ http://127.0.0.1:8000/
 
 ## Transaction History
 
-![Transaction History](screenshots/Transaction%20History.png)
+![Transaction History](screenshots/Transaction_History.png)
 
 ---
 
