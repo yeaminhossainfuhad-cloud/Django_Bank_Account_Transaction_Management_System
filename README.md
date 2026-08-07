@@ -124,7 +124,7 @@ Bank_Transaction_System/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/bank-transaction-system.git
+git clone https://github.com/yeaminhossainfuhad-cloud/Django_Bank_Account_Transaction_Management_System.git
 ```
 
 ---
